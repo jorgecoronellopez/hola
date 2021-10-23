@@ -8,5 +8,5 @@ jobs:
 
     steps:
       -run:
-        echo "Hello World!"
-        echo "Another command"
+         echo "Hello World!"
+         echo "Another command"
