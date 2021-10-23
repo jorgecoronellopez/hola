@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -run:
-         echo "Hello World!"
-         echo "Another command"
+      - run:
+          echo "Hello World!"
+          echo "Another command"
